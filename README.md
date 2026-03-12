@@ -1,5 +1,5 @@
 # TS_Academy_Capstone_Project
-## 🇳🇬 Food Basket Price & Food Inflation Forecasting
+## Nigerian Food Price & Food Inflation Forecasting
 ### TS Academy — Track 3: Time Series Analysis | Capstone Project
 
 ---
